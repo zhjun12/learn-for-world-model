@@ -1,0 +1,18 @@
+{
+  "best_val_accuracy": 0.375,
+  "test_loss": 1.7058311477661132,
+  "test_accuracy": 0.3834,
+  "classes": [
+    "airplane",
+    "automobile",
+    "bird",
+    "cat",
+    "deer",
+    "dog",
+    "frog",
+    "horse",
+    "ship",
+    "truck"
+  ],
+  "pretrained_weights": "E:\\learning_for_ai\\learn_for_world_model\\7_mae\\mini-mae-pytorch\\outputs\\best_model.pt"
+}

@@ -1,0 +1,26 @@
+# 各子项目的 Python 环境、缓存与编辑器文件
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+Lib/
+Scripts/
+Include/
+share/
+pyvenv.cfg
+.idea/
+.vscode/
+.ipynb_checkpoints/
+
+# 数据与权重，保留实验图表和指标
+data/
+*.pt
+*.pth
+*.ckpt
+
+# 本地配置
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db

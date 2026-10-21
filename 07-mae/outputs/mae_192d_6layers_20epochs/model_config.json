@@ -1,0 +1,9 @@
+{
+  "image_size": 32,
+  "patch_size": 4,
+  "embed_dim": 192,
+  "encoder_depth": 6,
+  "num_heads": 6,
+  "decoder_dim": 96,
+  "decoder_depth": 2
+}
